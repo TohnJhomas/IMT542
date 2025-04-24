@@ -9,12 +9,12 @@ Build a lightweight application to visualize, analyze, predict, or automate usin
 A Readme.md file in your repository tells other people why your project is useful, what they can do with it, and how to install the required libraries/dependencies and use it.
 
 ## Project Description
-This project queries all of the poems (limit 200) written by a given author, and then displays a chart of the number of words of a given length, and then queries wikitionary for the 10 longest ones and prints their definitions. 
+This project queries all of the poems (limit 200) written by a given author, and then displays a chart of the number of words of a given length, and tables of the longest words and the most common words in the poetry corpus
 
 ## Using This Project
  
  Set the name of the poet you want to search for in the line 116 of main.py, the first line under `if __name__ == "__main__"` and run that file directly. 
- 
+
 
 ## Data Sources
     PoetryDB Free Poetry interface: https://github.com/thundercomb/poetrydb#readme
