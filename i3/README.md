@@ -18,5 +18,4 @@ This project queries all of the poems (limit 200) written by a given author, and
 
 ## Data Sources
     PoetryDB Free Poetry interface: https://github.com/thundercomb/poetrydb#readme
-    Wikitionary API: https://en.wiktionary.org/w/api.php
 
