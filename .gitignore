@@ -2,3 +2,5 @@
 scratch.py
 .venv/
 __pycache__/
+output.md
+.DS_Store
